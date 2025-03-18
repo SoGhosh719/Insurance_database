@@ -1,40 +1,46 @@
 import pandas as pd
+import matplotlib.pyplot as plt
 
 # Load the CSV file (update the filename if needed)
 file_path = "Licensed-Or-Approved-Companies.csv"
 df = pd.read_csv(file_path)
 
-# Display basic info about the dataset
-print("\n🔍 Dataset Overview:\n")
-print(df.info())
+# Drop unnecessary columns
+df = df[['Company Name', 'Type of Insurance']]
 
-# Display first few rows
-print("\n📊 First 5 Rows:\n")
-print(df.head())
-
-# Function to categorize companies based on keywords
-def categorize_company(name):
+# Function to categorize companies based on the "Type of Insurance" column
+def categorize_company(type_info):
     categories = {
-        "Auto Insurance": ["Auto", "Vehicle", "Car", "Motor"],
-        "Health Insurance": ["Health", "Medical", "Care"],
-        "Life Insurance": ["Life", "Annuity"],
-        "Home Insurance": ["Home", "Property", "Casualty"],
-        "Commercial Insurance": ["Business", "Commercial", "Liability"],
+        "Auto Insurance": "Auto",
+        "Health Insurance": "Health",
+        "Life Insurance": "Life",
+        "Home Insurance": "Home",
+        "Commercial Insurance": "Business, Commercial, Liability"
     }
     
     for category, keywords in categories.items():
-        if any(keyword in name for keyword in keywords):
+        if any(keyword in str(type_info) for keyword in keywords.split(", ")):
             return category
     return "Other"
 
 # Apply categorization
-df["Category"] = df["Company Name"].astype(str).apply(categorize_company)
+df["Category"] = df["Type of Insurance"].apply(categorize_company)
 
-# Display categorized data
+# Count companies per category
+category_counts = df["Category"].value_counts()
 print("\n🏢 Categorized Companies:\n")
-print(df["Category"].value_counts())
+print(category_counts)
 
 # Save the categorized data to a new CSV file
 output_file = "categorized_companies.csv"
 df.to_csv(output_file, index=False)
 print(f"\n✅ Categorized data saved to {output_file}")
+
+# Generate and display a bar chart
+plt.figure(figsize=(10,5))
+category_counts.plot(kind='bar', color='skyblue')
+plt.xlabel("Insurance Category")
+plt.ylabel("Number of Companies")
+plt.title("Number of Companies per Insurance Category")
+plt.xticks(rotation=45)
+plt.show()

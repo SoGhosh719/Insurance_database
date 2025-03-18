@@ -1,0 +1,201 @@
+Company Name,Type of Insurance,Category
+Arbella Insurance Group,"Auto, Home",Auto Insurance
+MAPFRE Insurance,"Auto, Home",Auto Insurance
+Liberty Mutual Insurance,"Auto, Home, Life",Auto Insurance
+Safety Insurance,"Auto, Home",Auto Insurance
+Plymouth Rock Assurance,"Auto, Home",Auto Insurance
+GEICO,Auto,Auto Insurance
+Progressive Insurance,Auto,Auto Insurance
+Allstate Insurance,"Auto, Home",Auto Insurance
+Travelers Insurance,"Auto, Home",Auto Insurance
+USAA,"Auto, Home, Life",Auto Insurance
+Amica Mutual Insurance,"Auto, Home",Auto Insurance
+Hanover Insurance Group,"Auto, Home",Auto Insurance
+Quincy Mutual Group,"Auto, Home",Auto Insurance
+Metropolitan Insurance Company,"Auto, Home",Auto Insurance
+Norfolk & Dedham Group,"Auto, Home",Auto Insurance
+Vermont Mutual Insurance Group,"Auto, Home",Auto Insurance
+Preferred Mutual Insurance Company,"Auto, Home",Auto Insurance
+State Farm Insurance,"Auto, Home, Life",Auto Insurance
+Chubb Insurance,"Home, Auto",Auto Insurance
+AIG (American International Group),"Auto, Home, Life",Auto Insurance
+CNA Financial,Commercial,Commercial Insurance
+Zurich Insurance Group,Commercial,Commercial Insurance
+Nationwide Insurance,"Auto, Home, Life",Auto Insurance
+Farmers Insurance,"Auto, Home",Auto Insurance
+The Hartford,"Auto, Home, Commercial",Auto Insurance
+PURE Insurance,Home,Home Insurance
+Electric Insurance Company,"Auto, Home",Auto Insurance
+Esurance,Auto,Auto Insurance
+The General Insurance,Auto,Auto Insurance
+Massachusetts Mutual Life Insurance Company (MassMutual),Life,Life Insurance
+John Hancock Financial,Life,Life Insurance
+Prudential Insurance,Life,Life Insurance
+New York Life Insurance Company,Life,Life Insurance
+Guardian Life Insurance Company,Life,Life Insurance
+Principal Financial Group,Life,Life Insurance
+Lincoln Financial Group,Life,Life Insurance
+Northwestern Mutual,Life,Life Insurance
+Transamerica Life Insurance Company,Life,Life Insurance
+Banner Life Insurance Company,Life,Life Insurance
+Pacific Life Insurance Company,Life,Life Insurance
+Mutual of Omaha,Life,Life Insurance
+Voya Financial,Life,Life Insurance
+American National Insurance Company,Life,Life Insurance
+Assurity Life Insurance Company,Life,Life Insurance
+SBLI (Savings Bank Mutual Life Insurance Company of Massachusetts),Life,Life Insurance
+Blue Cross Blue Shield of Massachusetts,Health,Health Insurance
+Harvard Pilgrim Health Care,Health,Health Insurance
+Tufts Health Plan,Health,Health Insurance
+Fallon Health,Health,Health Insurance
+Health New England,Health,Health Insurance
+AllWays Health Partners,Health,Health Insurance
+BMC HealthNet Plan,Health,Health Insurance
+UnitedHealthcare,Health,Health Insurance
+Aetna,Health,Health Insurance
+Cigna,Health,Health Insurance
+Anthem Blue Cross and Blue Shield,Health,Health Insurance
+Humana,Health,Health Insurance
+Oscar Health,Health,Health Insurance
+Molina Healthcare,Health,Health Insurance
+Delta Dental of Massachusetts,Dental,Other
+Guardian Dental,Dental,Other
+MetLife Dental,Dental,Other
+Principal Dental Insurance,Dental,Other
+Ameritas,Dental,Other
+Renaissance Dental,Dental,Other
+United Concordia Dental,Dental,Other
+Dominion National,Dental,Other
+National General Insurance,"Auto, Home",Auto Insurance
+Shelter Insurance,"Auto, Home",Auto Insurance
+Auto-Owners Insurance,"Auto, Home",Auto Insurance
+Erie Insurance,"Auto, Home",Auto Insurance
+Mercury Insurance,"Auto, Home",Auto Insurance
+SafeAuto Insurance,Auto,Auto Insurance
+Infinity Insurance,Auto,Auto Insurance
+Kemper Corporation,"Auto, Home",Auto Insurance
+American Family Insurance,"Auto, Home",Auto Insurance
+COUNTRY Financial,"Auto, Home",Auto Insurance
+MetLife Auto & Home,"Auto, Home",Auto Insurance
+ShelterPoint Life Insurance Company,Life,Life Insurance
+Colonial Life & Accident Insurance Company,Life,Life Insurance
+Globe Life,Life,Life Insurance
+American Income Life Insurance Company,Life,Life Insurance
+National Life Group,Life,Life Insurance
+Fidelity Investments Life Insurance Company,Life,Life Insurance
+Ohio National Financial Services,Life,Life Insurance
+Securian Financial Group,Life,Life Insurance
+Symetra Life Insurance Company,Life,Life Insurance
+Western & Southern Financial Group,Life,Life Insurance
+Allianz Life Insurance Company of North America,Life,Life Insurance
+AXA Equitable Life Insurance Company,Life,Life Insurance
+Brighthouse Financial,Life,Life Insurance
+Foresters Financial,Life,Life Insurance
+Genworth Financial,Life,Life Insurance
+Jackson National Life Insurance Company,Life,Life Insurance
+National Western Life Insurance Company,Life,Life Insurance
+Protective Life Insurance Company,Life,Life Insurance
+Reliance Standard Life Insurance Company,Life,Life Insurance
+Western-Southern Life Assurance Company,Life,Life Insurance
+Midland National Life Insurance Company,Life,Life Insurance
+Primerica Life Insurance Company,Life,Life Insurance
+ShelterPoint Life Insurance Company,Life,Life Insurance
+Colonial Life & Accident Insurance Company,Life,Life Insurance
+Globe Life,Life,Life Insurance
+American Income Life Insurance Company,Life,Life Insurance
+National Life Group,Life,Life Insurance
+Fidelity Investments Life Insurance Company,Life,Life Insurance
+Ohio National Financial Services,Life,Life Insurance
+Securian Financial Group,Life,Life Insurance
+Symetra Life Insurance Company,Life,Life Insurance
+Western & Southern Financial Group,Life,Life Insurance
+Allianz Life Insurance Company of North America,Life,Life Insurance
+AXA Equitable Life Insurance Company,Life,Life Insurance
+Brighthouse Financial,Life,Life Insurance
+Foresters Financial,Life,Life Insurance
+Genworth Financial,Life,Life Insurance
+Jackson National Life Insurance Company,Life,Life Insurance
+National Western Life Insurance Company,Life,Life Insurance
+Protective Life Insurance Company,Life,Life Insurance
+Reliance Standard Life Insurance Company,Life,Life Insurance
+Western-Southern Life Assurance Company,Life,Life Insurance
+Midland National Life Insurance Company,Life,Life Insurance
+Primerica Life Insurance Company,Life,Life Insurance
+American Family Life Assurance Company of Columbus (Aflac),"Life, Health",Health Insurance
+Assurant,"Life, Health",Health Insurance
+Cigna,Health,Health Insurance
+Humana,Health,Health Insurance
+Molina Healthcare,Health,Health Insurance
+Oscar Health,Health,Health Insurance
+WellCare Health Plans,Health,Health Insurance
+Delta Dental of Massachusetts,Dental,Other
+Guardian Dental,Dental,Other
+MetLife Dental,Dental,Other
+Principal Dental Insurance,Dental,Other
+Ameritas,Dental,Other
+Renaissance Dental,Dental,Other
+United Concordia Dental,Dental,Other
+Dominion National,Dental,Other
+National General Insurance,"Auto, Home",Auto Insurance
+Shelter Insurance,"Auto, Home",Auto Insurance
+Auto-Owners Insurance,"Auto, Home",Auto Insurance
+Erie Insurance,"Auto, Home",Auto Insurance
+Mercury Insurance,"Auto, Home",Auto Insurance
+SafeAuto Insurance,Auto,Auto Insurance
+Infinity Insurance,Auto,Auto Insurance
+Kemper Corporation,"Auto, Home",Auto Insurance
+American Family Insurance,"Auto, Home",Auto Insurance
+COUNTRY Financial,"Auto, Home",Auto Insurance
+MetLife Auto & Home,"Auto, Home",Auto Insurance
+ShelterPoint Life Insurance Company,Life,Life Insurance
+Colonial Life & Accident Insurance Company,Life,Life Insurance
+Globe Life,Life,Life Insurance
+American Income Life Insurance Company,Life,Life Insurance
+National Life Group,Life,Life Insurance
+Fidelity Investments Life Insurance Company,Life,Life Insurance
+Ohio National Financial Services,Life,Life Insurance
+Securian Financial Group,Life,Life Insurance
+Symetra Life Insurance Company,Life,Life Insurance
+Western & Southern Financial Group,Life,Life Insurance
+Allianz Life Insurance Company of North America,Life,Life Insurance
+AXA Equitable Life Insurance Company,Life,Life Insurance
+Brighthouse Financial,Life,Life Insurance
+Foresters Financial,Life,Life Insurance
+Genworth Financial,Life,Life Insurance
+Jackson National Life Insurance Company,Life,Life Insurance
+National Western Life Insurance Company,Life,Life Insurance
+Protective Life Insurance Company,Life,Life Insurance
+Reliance Standard Life Insurance Company,Life,Life Insurance
+Western-Southern Life Assurance Company,Life,Life Insurance
+Midland National Life Insurance Company,Life,Life Insurance
+Primerica Life Insurance Company,Life,Life Insurance
+American Family Life Assurance Company of Columbus (Aflac),"Life, Health",Health Insurance
+Assurant,"Life, Health",Health Insurance
+Cigna,Health,Health Insurance
+Humana,Health,Health Insurance
+Molina Healthcare,Health,Health Insurance
+Oscar Health,Health,Health Insurance
+WellCare Health Plans,Health,Health Insurance
+Delta Dental of Massachusetts,Dental,Other
+Guardian Dental,Dental,Other
+MetLife Dental,Dental,Other
+Principal Dental Insurance,Dental,Other
+Ameritas,Dental,Other
+Renaissance Dental,Dental,Other
+United Concordia Dental,Dental,Other
+Dominion National,Dental,Other
+National General Insurance,"Auto, Home",Auto Insurance
+Shelter Insurance,"Auto, Home",Auto Insurance
+Auto-Owners Insurance,"Auto, Home",Auto Insurance
+Erie Insurance,"Auto, Home",Auto Insurance
+Mercury Insurance,"Auto, Home",Auto Insurance
+SafeAuto Insurance,Auto,Auto Insurance
+Infinity Insurance,Auto,Auto Insurance
+Kemper Corporation,"Auto, Home",Auto Insurance
+American Family Insurance,"Auto, Home",Auto Insurance
+COUNTRY Financial,"Auto, Home",Auto Insurance
+MetLife Auto & Home,"Auto, Home",Auto Insurance
+ShelterPoint Life Insurance Company,Life,Life Insurance
+Colonial Life & Accident Insurance Company,Life,Life Insurance
+Globe Life,Life,Life Insurance
+American Income Life Insurance Company,Life,Life Insurance
